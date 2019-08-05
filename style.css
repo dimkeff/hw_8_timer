@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.count {
+    color: rgb(45, 218, 125);
+}
+
+.timer_line {
+    height: 41px;
+    background-color: rgb(0, 255, 0);
+}
+
+.buttonTimer {
+    width: 103px;
+}
+
+.count {
+    font-size: 7rem;
+}
